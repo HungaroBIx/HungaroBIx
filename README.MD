@@ -1,1 +1,1 @@
-A data professional venturing into the world of development. My purpose is to show that the world of data is for the world of development and vice versa, and I will do this by sharing data products in SQL, PBI and Python that solve retail industry scenarios.
+A data professional venturing into the world of development. My purpose is to show that the world of data is for the world of development and vice versa, and I will do this by sharing data products in SQL, PBI and Python that solve retail industry scenarios and other real problems.
